@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="891b2203-494d-47c3-a127-ca8c70354760" version="1.0" primary="true">
+		<Qualifiers>
+			<AlternateForm>UNPLATED</AlternateForm>
+			<Language>EN-US</Language>
+			<Scale>200</Scale>
+			<TargetSize>24</TargetSize>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Files/App.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Files/MainPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MomeNikki.xr.xml" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Files/MomeNikki.xr.xml">
+				<Candidate type="Path">
+					<Value>MomeNikki.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NikkiPage.xbf" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Files/NikkiPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="RecordControl.xbf" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Files/RecordControl.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SettingsPage.xbf" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Files/SettingsPage.xbf">
+				<Candidate type="EmbeddedData">
+					<Base64Value>[Embedded Binary Data]</Base64Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="LockScreenLogo.png" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Files/Assets/LockScreenLogo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\LockScreenLogo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Files/Assets/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square150x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Files/Assets/Square44x44Logo.png">
+					<Candidate qualifiers="TargetSize-24, AlternateForm-UNPLATED" type="Path">
+						<Value>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</Value>
+					</Candidate>
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Square44x44Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Files/Assets/StoreLogo.png">
+					<Candidate type="Path">
+						<Value>Assets\StoreLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Files/Assets/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-200" isDefault="true" type="Path">
+						<Value>Assets\Wide310x150Logo.scale-200.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Microsoft.UI.Xaml">
+				<ResourceMapSubtree name="DensityStyles">
+					<NamedResource name="Compact.xbf" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Files/Microsoft.UI.Xaml/DensityStyles/Compact.xbf">
+						<Candidate type="EmbeddedData">
+							<Base64Value>[Embedded Binary Data]</Base64Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Properties">
+				<NamedResource name="Default.rd.xml" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Files/Properties/Default.rd.xml">
+					<Candidate type="Path">
+						<Value>Properties\Default.rd.xml</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="WinMetadata">
+				<NamedResource name="Windows.winmd" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Files/WinMetadata/Windows.winmd">
+					<Candidate type="Path">
+						<Value>WinMetadata\Windows.winmd</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Microsoft.Data.Sqlite.Properties.Resources">
+			<NamedResource name="AmbiguousParameterName" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Microsoft.Data.Sqlite.Properties.Resources/AmbiguousParameterName">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot bind the value for parameter '{parameterName}' because multiple matching parameters were found in the command text. Specify the parameter name with the symbol prefix, e.g. '@{parameterName}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CalledOnNullValue" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Microsoft.Data.Sqlite.Properties.Resources/CalledOnNullValue">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The data is NULL at ordinal {ordinal}. This method can't be called on NULL values. Check using IsDBNull before calling.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CallRequiresOpenConnection" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Microsoft.Data.Sqlite.Properties.Resources/CallRequiresOpenConnection">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{methodName} can only be called when the connection is open.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CallRequiresSetCommandText" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Microsoft.Data.Sqlite.Properties.Resources/CallRequiresSetCommandText">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>CommandText must be set before {methodName} can be called.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="CannotStoreNaN" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Microsoft.Data.Sqlite.Properties.Resources/CannotStoreNaN">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot store 'NaN' values.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ConnectionStringRequiresClosedConnection" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Microsoft.Data.Sqlite.Properties.Resources/ConnectionStringRequiresClosedConnection">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>ConnectionString cannot be set when the connection is open.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ConvertFailed" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Microsoft.Data.Sqlite.Properties.Resources/ConvertFailed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot convert object of type '{sourceType}' to object of type '{targetType}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DataReaderClosed" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Microsoft.Data.Sqlite.Properties.Resources/DataReaderClosed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Invalid attempt to call {operation} when reader is closed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DataReaderOpen" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Microsoft.Data.Sqlite.Properties.Resources/DataReaderOpen">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>An open reader is already associated with this command. Close it before opening a new one.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="DefaultNativeError" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Microsoft.Data.Sqlite.Properties.Resources/DefaultNativeError">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>For more information on this error code see https://www.sqlite.org/rescode.html</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="EncryptionNotSupported" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Microsoft.Data.Sqlite.Properties.Resources/EncryptionNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>You specified a password in the connection string, but the native SQLite library '{libraryName}' doesn't support encryption.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidCommandType" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Microsoft.Data.Sqlite.Properties.Resources/InvalidCommandType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The CommandType '{commandType}' is not supported.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidEnumValue" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Microsoft.Data.Sqlite.Properties.Resources/InvalidEnumValue">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The {enumType} enumeration value, {value}, is invalid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidIsolationLevel" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Microsoft.Data.Sqlite.Properties.Resources/InvalidIsolationLevel">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The IsolationLevel '{isolationLevel}' is not supported.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidOffsetAndCount" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Microsoft.Data.Sqlite.Properties.Resources/InvalidOffsetAndCount">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Offset and count were out of bounds for the buffer.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="InvalidParameterDirection" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Microsoft.Data.Sqlite.Properties.Resources/InvalidParameterDirection">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The ParameterDirection '{direction}' is not supported.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="KeywordNotSupported" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Microsoft.Data.Sqlite.Properties.Resources/KeywordNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Connection string keyword '{keyword}' is not supported. For a possible alternative, see https://go.microsoft.com/fwlink/?linkid=2142181.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MissingParameters" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Microsoft.Data.Sqlite.Properties.Resources/MissingParameters">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Must add values for the following parameters: {parameters}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="NoData" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Microsoft.Data.Sqlite.Properties.Resources/NoData">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No data exists for the row/column.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="OpenRequiresSetConnectionString" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Microsoft.Data.Sqlite.Properties.Resources/OpenRequiresSetConnectionString">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>ConnectionString must be set before Open can be called.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ParallelTransactionsNotSupported" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Microsoft.Data.Sqlite.Properties.Resources/ParallelTransactionsNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>SqliteConnection does not support nested transactions.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ParameterNotFound" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Microsoft.Data.Sqlite.Properties.Resources/ParameterNotFound">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>A SqliteParameter with ParameterName '{parameterName}' is not contained by this SqliteParameterCollection.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="RequiresSet" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Microsoft.Data.Sqlite.Properties.Resources/RequiresSet">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{propertyName} must be set.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ResizeNotSupported" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Microsoft.Data.Sqlite.Properties.Resources/ResizeNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The size of a blob may not be changed by the SqliteBlob API. Use an UPDATE command instead.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SeekBeforeBegin" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Microsoft.Data.Sqlite.Properties.Resources/SeekBeforeBegin">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>An attempt was made to move the position before the beginning of the stream.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SetRequiresNoOpenReader" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Microsoft.Data.Sqlite.Properties.Resources/SetRequiresNoOpenReader">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>An open reader is associated with this command. Close it before changing the {propertyName} property.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SqlBlobRequiresOpenConnection" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Microsoft.Data.Sqlite.Properties.Resources/SqlBlobRequiresOpenConnection">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>SqliteBlob can only be used when the connection is open.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SqliteNativeError" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Microsoft.Data.Sqlite.Properties.Resources/SqliteNativeError">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>SQLite Error {errorCode}: '{message}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TransactionCompleted" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Microsoft.Data.Sqlite.Properties.Resources/TransactionCompleted">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>This SqliteTransaction has completed; it is no longer usable.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TransactionConnectionMismatch" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Microsoft.Data.Sqlite.Properties.Resources/TransactionConnectionMismatch">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The transaction object is not associated with the same connection object as this command.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="TransactionRequired" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Microsoft.Data.Sqlite.Properties.Resources/TransactionRequired">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Execute requires the command to have a transaction object when the connection assigned to the command is in a pending local transaction.  The Transaction property of the command has not been initialized.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UDFCalledWithNull" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Microsoft.Data.Sqlite.Properties.Resources/UDFCalledWithNull">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The SQL function '{function}' was called with a NULL argument at ordinal {ordinal}. Create the function using a Nullable parameter or rewrite your query to avoid passing NULL.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="UnknownDataType" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Microsoft.Data.Sqlite.Properties.Resources/UnknownDataType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No mapping exists from object type {typeName} to a known managed provider native type.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="WriteNotSupported" uri="ms-resource://891b2203-494d-47c3-a127-ca8c70354760/Microsoft.Data.Sqlite.Properties.Resources/WriteNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Stream does not support writing.</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

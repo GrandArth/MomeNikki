@@ -1,0 +1,12 @@
+﻿"D:\User\Doc\MomeNikki\obj\x64\Release\ilc\in\Microsoft.Data.Sqlite.dll"
+"D:\User\Doc\MomeNikki\obj\x64\Release\ilc\in\MomeNikki.exe"
+"D:\User\Doc\MomeNikki\obj\x64\Release\ilc\in\SQLitePCLRaw.batteries_v2.dll"
+"D:\User\Doc\MomeNikki\obj\x64\Release\ilc\in\SQLitePCLRaw.core.dll"
+"D:\User\Doc\MomeNikki\obj\x64\Release\ilc\in\SQLitePCLRaw.provider.winsqlite3.dll"
+/Lib:"D:\User\Doc\MomeNikki\obj\x64\Release\ilc\in"
+/Lib:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.compiler\2.2.8-rel-28605-00\tools\x64\ilc\lib\Private"
+/WinMD:"D:\User\Doc\MomeNikki\obj\x64\Release\ilc\in\WinMetadata\Microsoft.UI.Xaml.winmd"
+/WinMD:"D:\User\Doc\MomeNikki\obj\x64\Release\ilc\in\WinMetadata\Windows.winmd"
+/VSTelemetrySessionSettings:"{"IsOptedIn":true,"HostName":"Dev14","AppInsightsInstrumentationKey":"f144292e-e3b2-4011-ac90-20e5c03fbce5","AsimovInstrumentationKey":"AIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70","AppId":1001,"UserId":"8d4edbd8-bdf3-4e02-bee6-2b47ee820636","Id":"4948aedf-1dad-4c77-8214-68fd392747a4","ProcessStartTime":637493277326774392}"
+/RdXmlPath:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\2.2.8-rel-28605-00\tools\LibraryXML"
+/RunOnlyPreDR

@@ -1,0 +1,2 @@
+MainPackage=D:\User\Doc\MomeNikki\bin\x64\Release\MomeNikki_0.0.1.0_x64.msix
+SymbolPackage=D:\User\Doc\MomeNikki\obj\x64\Release\Symbols\MomeNikki_0.0.1.0_x64.appxsym

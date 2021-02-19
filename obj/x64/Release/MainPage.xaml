@@ -1,0 +1,40 @@
+﻿<Page x:ConnectionId='1'
+    x:Class="MomeNikki.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MomeNikki"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+	<Grid>
+		<NavigationView x:ConnectionId='2' x:Name="NavigationViewControl"                                                                                       >
+			<NavigationView.MenuItems>
+				<NavigationViewItem x:ConnectionId='3' Icon="Play" Content="Diary Page" x:Name="HomePage"  Tag="home"/>
+			</NavigationView.MenuItems>
+
+			<NavigationView.Content>
+				<Frame x:ConnectionId='4' Name="ContentFrame"/>
+			</NavigationView.Content>
+
+
+			<VisualStateManager.VisualStateGroups>
+				<VisualStateGroup>
+					<VisualState>
+						<VisualState.StateTriggers>
+							<AdaptiveTrigger x:ConnectionId='5'
+                                                                                                  />
+						</VisualState.StateTriggers>
+
+						<VisualState.Setters>
+							<Setter Target="NavigationViewControl.PaneDisplayMode" Value="Top"/>
+						</VisualState.Setters>
+					</VisualState>
+				</VisualStateGroup>
+			</VisualStateManager.VisualStateGroups>
+		</NavigationView>
+
+	</Grid>
+</Page>
+

@@ -48,6 +48,7 @@ namespace MomeNikki
 			}
 		}
 
+		public static string orderSql = " \n ORDER BY YEAR,MONTH,DAY,HOUR,MINUTE,ID ASC";
 
 		public string GenSQLAddtoTable()
 		{
@@ -62,17 +63,17 @@ namespace MomeNikki
 
 		public static string GenSQLQueryYearRecord(int queryYear)
 		{
-			return $"SELECT * FROM NikkiTable WHERE YEAR = {queryYear}";
+			return $"SELECT * FROM NikkiTable WHERE YEAR = {queryYear} " + orderSql;
 		}
 
 		public static string GenSQLQueryMonthRecord(int queryYear, int queryMonth)
 		{
-			return $"SELECT * FROM NikkiTable WHERE YEAR = {queryYear} AND MONTH = {queryMonth}";
+			return $"SELECT * FROM NikkiTable WHERE YEAR = {queryYear} AND MONTH = {queryMonth}" + orderSql;
 		}
 
 		public static string GenSQLQueryDayRecord(int queryYear, int queryMonth, int queryDay)
 		{
-			return $"SELECT * FROM NikkiTable WHERE YEAR = {queryYear} AND MONTH = {queryMonth} AND DAY = {queryDay}";
+			return $"SELECT * FROM NikkiTable WHERE YEAR = {queryYear} AND MONTH = {queryMonth} AND DAY = {queryDay}" + orderSql;
 		}
 
 		public static string GenSQLRemoveByID(int queryId)
@@ -91,21 +92,21 @@ namespace MomeNikki
 		}
 		public static string GenSQLRetriveAll()
 		{
-			return "SELECT * FROM NikkiTable";
+			return "SELECT * FROM NikkiTable" + orderSql;
 		}
 
 
 		public static string GenSQLRetiveYears()
 		{
-			return "SELECT DISTINCT YEAR FROM NikkiTable";
+			return "SELECT DISTINCT YEAR FROM NikkiTable ORDER BY YEAR ASC";
 		}
 		public static string GenSQLRetiveMonths(string whichYear)
 		{
-			return $"SELECT DISTINCT MONTH FROM NikkiTable WHERE YEAR = {whichYear}";
+			return $"SELECT DISTINCT MONTH FROM NikkiTable WHERE YEAR = {whichYear} ORDER BY MONTH ASC";
 		}
 		public static string GenSQLRetiveDays(string whichYear, string whichMonth)
 		{
-			return $"SELECT DISTINCT DAY FROM NikkiTable WHERE YEAR = {whichYear} AND MONTH = {whichMonth}";
+			return $"SELECT DISTINCT DAY FROM NikkiTable WHERE YEAR = {whichYear} AND MONTH = {whichMonth} ORDER BY DAY ASC";
 		}
 
 		public static string GenSQLRetriveMaxUID()

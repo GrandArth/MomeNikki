@@ -1,0 +1,17 @@
+[ResourceMetadata]
+"ResourceDimensions"		"language-en-us"
+"ResourceDimensions"		"scale-200"
+"ResourceDimensions"		"language-zh-CN"
+
+[Files]
+"D:\User\Doc\MomeNikki\obj\x64\Release\split.pri"			"resources.pri"
+"D:\User\Doc\MomeNikki\obj\x64\Release\PackageLayout\MomeNikki.exe"			"MomeNikki.exe"
+"D:\User\Doc\MomeNikki\obj\x64\Release\PackageLayout\MomeNikki.dll"			"MomeNikki.dll"
+"D:\User\Doc\MomeNikki\obj\x64\Release\PackageLayout\clrcompression.dll"			"clrcompression.dll"
+"D:\User\Doc\MomeNikki\obj\x64\Release\PackageLayout\Assets\Wide310x150Logo.scale-200.png"			"Assets\Wide310x150Logo.scale-200.png"
+"D:\User\Doc\MomeNikki\obj\x64\Release\PackageLayout\Assets\StoreLogo.png"			"Assets\StoreLogo.png"
+"D:\User\Doc\MomeNikki\obj\x64\Release\PackageLayout\Assets\Square44x44Logo.targetsize-24_altform-unplated.png"			"Assets\Square44x44Logo.targetsize-24_altform-unplated.png"
+"D:\User\Doc\MomeNikki\obj\x64\Release\PackageLayout\Assets\Square44x44Logo.scale-200.png"			"Assets\Square44x44Logo.scale-200.png"
+"D:\User\Doc\MomeNikki\obj\x64\Release\PackageLayout\Assets\Square150x150Logo.scale-200.png"			"Assets\Square150x150Logo.scale-200.png"
+"D:\User\Doc\MomeNikki\obj\x64\Release\PackageLayout\Assets\SplashScreen.scale-200.png"			"Assets\SplashScreen.scale-200.png"
+"D:\User\Doc\MomeNikki\obj\x64\Release\PackageLayout\Assets\LockScreenLogo.scale-200.png"			"Assets\LockScreenLogo.scale-200.png"

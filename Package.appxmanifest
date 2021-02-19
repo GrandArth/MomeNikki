@@ -8,8 +8,8 @@
 
   <Identity
     Name="891b2203-494d-47c3-a127-ca8c70354760"
-    Publisher="CN=kousa"
-    Version="1.0.0.0" />
+    Publisher="CN=kousaki"
+    Version="0.0.1.0" />
 
   <mp:PhoneIdentity PhoneProductId="891b2203-494d-47c3-a127-ca8c70354760" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 

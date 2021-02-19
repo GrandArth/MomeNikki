@@ -34,7 +34,9 @@
 				   RelativePanel.Below="UniIdBox"
 				   Margin="10,10,10,10" RequestedTheme="Default" FontWeight="Normal" 
 				   Text="{x:Bind pageNikki.RecordText,Mode=TwoWay}"
-					IsReadOnly="True"/>
+					IsReadOnly="True"
+				 	TextWrapping="Wrap" 
+					AcceptsReturn="True"/>
 
 	</RelativePanel>
 </UserControl>

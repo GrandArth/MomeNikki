@@ -68,9 +68,9 @@
 							   RelativePanel.AlignBottomWithPanel="True">
 				<TextBox ScrollViewer.VerticalScrollBarVisibility="Visible" 
 					Name="NewDairyBox"
-					AcceptsReturn="True"
 					Text="Input new thoughts here!" 
 					TextWrapping="Wrap" 
+					AcceptsReturn="True"
 					TextAlignment="Left"
 					RelativePanel.AlignBottomWithPanel="True"
 					RelativePanel.AlignTopWithPanel="True"
